@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>61136311-3A8F-4240-86C4-A3F1F15F1429</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E29A52303D85CEBBF3BF3C3FDC50DB72C2E67E17</key>
+		<string>github.com:liu83582243xin/LeetCodeOJ.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Pascal'sTriangle/Pascal'sTriangle.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E29A52303D85CEBBF3BF3C3FDC50DB72C2E67E17</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:liu83582243xin/LeetCodeOJ.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E29A52303D85CEBBF3BF3C3FDC50DB72C2E67E17</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E29A52303D85CEBBF3BF3C3FDC50DB72C2E67E17</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LeetCodeOJ</string>
+		</dict>
+	</array>
+</dict>
+</plist>
