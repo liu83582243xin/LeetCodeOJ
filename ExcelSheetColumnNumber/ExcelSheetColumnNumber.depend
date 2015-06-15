@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1433837324 source:d:\c++\leetcode\excelsheetcolumnnumber\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+

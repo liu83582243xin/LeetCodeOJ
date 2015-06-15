@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1433805580 source:d:\c++\leetcode\rotatearray\main.cpp
+	<iostream>
+	<vector>
+	<iterator>
+

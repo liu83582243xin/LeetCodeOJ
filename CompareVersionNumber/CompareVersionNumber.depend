@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1433921757 source:d:\c++\leetcode\compareversionnumber\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+
