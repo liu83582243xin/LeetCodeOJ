@@ -1,6 +1,6 @@
 There is a 20ms solution as follows:
 
-```
+```c++
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
