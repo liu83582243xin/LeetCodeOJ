@@ -1,5 +1,5 @@
 代码如下：
-```
+```c++
 class Solution
 {
 public:
